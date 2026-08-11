@@ -1,0 +1,13 @@
+{
+  "country": "united_kingdom",
+  "validation_months": 8,
+  "baseline_mae": 14537.962500000001,
+  "candidate_mae": {
+    "linear_regression": 2648.9525055027098,
+    "random_forest": 5404.981751162586,
+    "gradient_boosting": 3961.6169695454264
+  },
+  "best_model": "linear_regression",
+  "best_mae": 2648.9525055027098,
+  "improvement_vs_baseline_pct": 81.77906632031339
+}

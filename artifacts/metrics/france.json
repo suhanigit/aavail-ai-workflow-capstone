@@ -1,0 +1,13 @@
+{
+  "country": "france",
+  "validation_months": 8,
+  "baseline_mae": 8969.93375,
+  "candidate_mae": {
+    "linear_regression": 2830.1868279202245,
+    "random_forest": 3437.4788355747696,
+    "gradient_boosting": 3590.871282181597
+  },
+  "best_model": "linear_regression",
+  "best_mae": 2830.1868279202245,
+  "improvement_vs_baseline_pct": 68.44807434703489
+}

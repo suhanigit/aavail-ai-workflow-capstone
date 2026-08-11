@@ -1,0 +1,13 @@
+{
+  "country": "germany",
+  "validation_months": 8,
+  "baseline_mae": 12171.34625,
+  "candidate_mae": {
+    "linear_regression": 2713.485143186217,
+    "random_forest": 4872.457125651043,
+    "gradient_boosting": 4609.8229597320715
+  },
+  "best_model": "linear_regression",
+  "best_mae": 2713.485143186217,
+  "improvement_vs_baseline_pct": 77.7059571928108
+}

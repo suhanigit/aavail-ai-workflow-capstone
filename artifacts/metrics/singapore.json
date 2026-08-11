@@ -1,0 +1,13 @@
+{
+  "country": "singapore",
+  "validation_months": 8,
+  "baseline_mae": 10598.35625,
+  "candidate_mae": {
+    "linear_regression": 509.675529709908,
+    "random_forest": 2344.2517074621974,
+    "gradient_boosting": 2481.153776205734
+  },
+  "best_model": "linear_regression",
+  "best_mae": 509.675529709908,
+  "improvement_vs_baseline_pct": 95.19099454965095
+}

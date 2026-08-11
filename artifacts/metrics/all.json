@@ -1,0 +1,13 @@
+{
+  "country": "all",
+  "validation_months": 8,
+  "baseline_mae": 65787.43000000001,
+  "candidate_mae": {
+    "linear_regression": 5753.779497777825,
+    "random_forest": 18787.726983556306,
+    "gradient_boosting": 13018.822794033927
+  },
+  "best_model": "linear_regression",
+  "best_mae": 5753.779497777825,
+  "improvement_vs_baseline_pct": 91.25398347712044
+}
