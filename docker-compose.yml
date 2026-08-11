@@ -1,0 +1,8 @@
+services:
+  aavail-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./runtime/logs:/app/runtime/logs
+      - ./runtime/monitoring:/app/runtime/monitoring
